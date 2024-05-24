@@ -11,7 +11,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/nicolas-morales-ti/">Nicolas Roberto Jordan Morales</a>, <a href="https://www.linkedin.com/in/lucasoliveira198/">Lucas Oliveira </a>, <a href="https://www.linkedin.com/in/maria-eduarda-c-foloni-a6074425a/"> Maria Eduarda C Foloni </a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano </a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor
+## Professores Orientadores: <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça </a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente  </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz
 
 ## Descrição
 O jogo integra a educação ambiental como entretenimento, desenvolvendo o objetivo de promover a
